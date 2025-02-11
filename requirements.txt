@@ -146,7 +146,7 @@ django-imagekit==5.0.0
     # via -r requirements.in
 django-polymorphic==3.1.0
     # via -r requirements.in
-django-redis-cache @ git+https://github.com/PokaInc/django-redis-cache.git@v1.0.0
+django-redis-cache==1.0.0
     # via -r requirements.in
 django-snowflake==4.2.3
     # via -r requirements.in
