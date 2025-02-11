@@ -57,7 +57,7 @@ botocore==1.36.17
     #   s3transfer
 bytecode==0.16.1
     # via ddtrace
-cachetools==5.5.0
+cachetools==5.5.1
     # via -r requirements.in
 celery[redis,sqs]==5.4.0
     # via -r requirements.in

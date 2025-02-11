@@ -8,7 +8,7 @@ bleach
 
 boto3
 
-cachetools==5.5.0
+cachetools==5.5.1
 
 celery[redis,sqs]
 
