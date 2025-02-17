@@ -42,7 +42,7 @@ django-polymorphic
 
 # django-redis-cache
 # The official "django-redis-cache" is outdated and was forcing us to use a version of redis which was out of date (3 years)...
-django-redis-cache==1.0.0
+django-redis-cache==1.8.0
 
 django-snowflake==4.2.3
 
