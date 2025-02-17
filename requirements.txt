@@ -119,7 +119,6 @@ django==4.2.19
     #   django-fast-update
     #   django-filter
     #   django-polymorphic
-    #   django-redis-cache
     #   django-storages
     #   django-tenants
     #   django-timezone-field
@@ -178,7 +177,7 @@ exceptiongroup==1.2.2
     # via anyio
 expiringdict==1.2.2
     # via launchdarkly-server-sdk
-faker==36.1.0
+faker==36.1.1
     # via -r requirements.in
 filelock==3.17.0
     # via snowflake-connector-python

@@ -42,7 +42,7 @@ execnet==2.1.1
     # via pytest-xdist
 factory-boy==3.3.3
     # via -r requirements.test.in
-faker==36.1.0
+faker==36.1.1
     # via factory-boy
 fakeredis==2.27.0
     # via -r requirements.test.in
