@@ -119,7 +119,6 @@ django==4.2.19
     #   django-fast-update
     #   django-filter
     #   django-polymorphic
-    #   django-redis-cache
     #   django-storages
     #   django-tenants
     #   django-timezone-field
@@ -432,7 +431,7 @@ semver==3.0.4
     # via
     #   -r requirements.in
     #   launchdarkly-server-sdk
-sentry-sdk==2.20.0
+sentry-sdk==2.22.0
     # via -r requirements.in
 six==1.17.0
     # via
