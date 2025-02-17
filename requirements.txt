@@ -119,7 +119,6 @@ django==4.2.19
     #   django-fast-update
     #   django-filter
     #   django-polymorphic
-    #   django-redis-cache
     #   django-storages
     #   django-tenants
     #   django-timezone-field
@@ -286,7 +285,7 @@ numpy==1.26.4
     #   pgvector
 objproxies==0.9.4
     # via -r requirements.in
-openai==1.61.1
+openai==1.63.2
     # via -r requirements.in
 openapi-codec==1.3.2
     # via -r requirements.in
