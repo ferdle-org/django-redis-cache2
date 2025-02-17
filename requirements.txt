@@ -119,7 +119,6 @@ django==4.2.19
     #   django-fast-update
     #   django-filter
     #   django-polymorphic
-    #   django-redis-cache
     #   django-storages
     #   django-tenants
     #   django-timezone-field
@@ -152,7 +151,7 @@ django-snowflake==4.2.3
     # via -r requirements.in
 django-sortedm2m==4.0.0
     # via -r requirements.in
-django-storages==1.14.4
+django-storages==1.14.5
     # via -r requirements.in
 django-tenants==3.7.0
     # via -r requirements.in
